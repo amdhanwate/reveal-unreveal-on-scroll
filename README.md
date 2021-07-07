@@ -5,7 +5,7 @@
 - CSS
 - JavaScript
 
-### [Live Demo]()
+### [Live Demo](https://amdhanwate.github.io/reveal-unreveal-on-scroll/)
 
 ### [Blog Post](https://dev.to/abhilearnstocode/reveal-navbar-on-scroll-28e0 
 
